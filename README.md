@@ -8,11 +8,10 @@ Through years of exploration, I’ve come to believe that our bodies hold deep i
 
 The menstrual cycle, when understood, isn’t a disruption — it’s a powerful framework for planning, reflection, and alignment. When paired with AI and intentional design, it becomes a tool for unlocking something much deeper: the Self.
 
-The Toolkit of Self is my ongoing attempt to build what I wish existed. A place to track, learn, and evolve — not just for productivity, but for presence. Not just for output, but for awareness.
+The Toolkit of Self is my ongoing attempt to build what I wish existed. A place to track, learn, and evolve.
 
+This is my passion, obsession, all I think about. 
 **All roads lead back to Ki. **
-
-This is my passion. My obsession. My everything.
 
 Much love, 
 Rachel Tomasetti  
