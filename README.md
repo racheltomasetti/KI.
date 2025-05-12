@@ -14,6 +14,7 @@ The Toolkit of Self is my ongoing attempt to build what I wish existed. A place 
 
 This is my passion. My obsession. My everything.
 
-—
+Much love, 
 Rachel Tomasetti  
+---
 [racheltomasetti.com](https://www.racheltomasetti.com)
