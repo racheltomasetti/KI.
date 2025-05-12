@@ -1,71 +1,19 @@
 # Toolkit of Self
 
-A personal development and productivity ecosystem that integrates mobile and desktop experiences with AI assistance.
+An AI-powered personal system designed to help individuals align with their biology, behaviors, and beliefs — starting with women’s health.
 
-## Vision
+This project began with a question: *How do I create a tool that helps me understand myself — my patterns, my rhythms, my mind?*
 
-This toolkit is designed to be a comprehensive system for personal growth and productivity, built with three core principles:
+Through years of exploration, I’ve come to believe that our bodies hold deep intelligence — and for women, there’s an added layer of complexity and opportunity embedded in the menstrual cycle. Yet so many of us move through these phases without truly understanding what’s happening or how it’s shaping our energy, thoughts, and behavior. There’s an immense opportunity being left on the table.
 
-### CREATING
-- Ideation and brainstorming tools
-- Project planning and management
-- Content creation workflows
+The menstrual cycle, when understood, isn’t a disruption — it’s a powerful framework for planning, reflection, and alignment. When paired with AI and intentional design, it becomes a tool for unlocking something much deeper: the Self.
 
-### BUILDING
-- Task management and execution
-- Progress tracking
-- System integration and automation
+The Toolkit of Self is my ongoing attempt to build what I wish existed. A place to track, learn, and evolve — not just for productivity, but for presence. Not just for output, but for awareness.
 
-### EXPLORING
-- Knowledge management
-- Learning pathways
-- Discovery and experimentation
+**All roads lead back to Ki. **
 
-## Core Components
+This is my passion. My obsession. My everything.
 
-### 1. Base System
-The foundation of the toolkit, consisting of:
-- Core data structures
-- Essential user interactions
-- Basic workflow patterns
-- Integration interfaces
-
-### 2. Mobile App
-The primary daily interaction point:
-- Quick capture
-- Task management
-- Progress tracking
-- Habit formation
-
-### 3. Desktop Experience
-Enhanced functionality with:
-- Supabase integration
-- AI agent assistance
-- Advanced analytics
-- Deep workflow customization
-
-## Technical Stack
-
-- Frontend: Next.js with TypeScript
-- Mobile: React Native
-- Backend: Supabase
-- AI Integration: Custom agents
-- State Management: TBD
-- Database: PostgreSQL (via Supabase)
-
-## Development Approach
-
-1. Build the base system first
-2. Establish core data structures
-3. Implement essential user interactions
-4. Create integration points
-5. Expand to mobile
-6. Enhance with AI capabilities
-
-## Current Status
-
-🚧 Initial Development - Building Base System
-
----
-
-© 2024 Rachel Tomasetti
+—
+Rachel Tomasetti  
+[racheltomasetti.com](https://www.racheltomasetti.com)
