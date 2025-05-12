@@ -11,7 +11,8 @@ The menstrual cycle, when understood, isn’t a disruption — it’s a powerful
 The Toolkit of Self is my ongoing attempt to build what I wish existed. A place to track, learn, and evolve.
 
 This is my passion, obsession, all I think about. 
-**All roads lead back to Ki. **
+
+**All roads lead back to Ki.**
 
 Much love, 
 Rachel Tomasetti  
